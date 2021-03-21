@@ -82,6 +82,5 @@ The arm can also perform other movements which are shown as;<br>
 ![Getting Started](./Images/Hello.jpg)
 ![Getting Started](./Images/PEACE.jpg)
 ![Getting Started](./Images/FIST.jpg)
-![Getting Started](./Images/Hi.jpg)
 And rest of the demonstration is shown
 in the YouTube Video. The link to the YouTube video is given as : https://youtu.be/vp6CRa2nmLc
