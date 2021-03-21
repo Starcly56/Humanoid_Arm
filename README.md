@@ -78,7 +78,7 @@ Master Arm
 Slave Arm
 ![Getting Started](./Images/ReceiverArm.jpg)
 
-The arm can also perform other movements which are shown as;<br>
+The arm can perform various movements which are shown as;<br>
 ![Getting Started](./Images/Hello.jpg)
 ![Getting Started](./Images/PEACE.jpg)
 ![Getting Started](./Images/FIST.jpg)
